@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="public/flogo-full.svg" alt="Logo">
+  <img src="public/logo-full.svg" alt="Logo">
 </h1>
 
 <h3 align="center">

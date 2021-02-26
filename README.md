@@ -30,9 +30,9 @@ O <strong>[MoveIt](https://moveit-delta-flame.vercel.app/) 📲</strong> é uma 
   <summary>
     Visualizar layout
   </summary>
-  <img src="home.png" alt="Home">
-  <img src="desafio.png" alt="Challenge">
-  <img src="levelup.png" alt="Level up">
+  <img src="public/home.png" alt="Home">
+  <img src="public/desafio.png" alt="Challenge">
+  <img src="public/levelup.png" alt="Level up">
 </details>
 
 <a id="tecnologias-utilizadas"></a>

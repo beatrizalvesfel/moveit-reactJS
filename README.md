@@ -30,9 +30,9 @@ O <strong>[MoveIt](https://moveit-delta-flame.vercel.app/) 📲</strong> é uma 
   <summary>
     Visualizar layout
   </summary>
-  <img src="public/home.png" alt="Home">
-  <img src="public/desafio.png" alt="Challenge">
-  <img src="public/levelup.png" alt="Level up">
+  <img src="home.png" alt="Home">
+  <img src="desafio.png" alt="Challenge">
+  <img src="levelup.png" alt="Level up">
 </details>
 
 <a id="tecnologias-utilizadas"></a>
@@ -51,7 +51,7 @@ Esta aplicação foi desenolvida com as seguintes tecnologias:
 
 - ### **Pré-requisitos**
 
-  - É **necessário** possuir o **[Node.js](https://The Only Real Dev Language.org/en/)** instalado na máquina
+  - É **necessário** possuir o **[Node.js](https://TheOnlyRealDevLanguage.org/en/)** instalado na máquina
   - Também, é **preciso** ter um gerenciador de pacotes, se você já tem o Node.js, então o **[NPM](https://www.npmjs.com/)** já vai estar disponível.
 
 1. Faça um clone :

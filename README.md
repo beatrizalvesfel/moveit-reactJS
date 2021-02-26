@@ -19,7 +19,7 @@ A simple web application of pomodoro method
 
 ## :bookmark:  Sobre
 
-O <strong>[MoveIt](https://moveit-delta-flame.vercel.app/) 📲</strong> é uma aplicação Web qbaseada no método pomodoro, onde o usuário, se concentra no trabalho por 25 minutos, sem distrações, ao final do ciclo, recebe umdesafio com um exercício para realizar durante a pausa, completando esses desafios seu nível sobe!
+O <strong>[MoveIt](https://moveit-delta-flame.vercel.app/) 📲</strong> é uma aplicação Web baseada no método pomodoro, onde o usuário, se concentra no trabalho por 25 minutos, sem distrações, ao final do ciclo, recebe um desafio com um exercício para realizar durante a pausa, completando esses desafios seu nível sobe!
 
 </details>
 
